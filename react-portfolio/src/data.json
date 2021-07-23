@@ -1,0 +1,18 @@
+[
+    {
+  "name": "Code Refactor"  , 
+  "description": "I used CSS to edit all the visuals of this website", 
+  "image": "https://www.teachermagazine.com/assets/images/teacher/Computing-programming-and-coding-in-schools.jpg", 
+  "gitHub": "https://github.com/sineusw/Week-1-Code-Refactor", 
+  "live": "https://sineusw.github.io/Week-1-Code-Refactor/"
+    },
+    {
+        "name": "Code Refactor"  , 
+        "description": "I used CSS to edit all the visuals of this website", 
+        "image": "https://www.teachermagazine.com/assets/images/teacher/Computing-programming-and-coding-in-schools.jpg", 
+        "gitHub": "https://github.com/sineusw/Week-1-Code-Refactor", 
+        "live": "https://sineusw.github.io/Week-1-Code-Refactor/"
+          }
+           
+    
+]
